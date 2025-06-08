@@ -1,5 +1,4 @@
-# fixed with gitlens
-
+from base64 import b64decode
 from unicorn import *
 from unicorn.arm_const import *
 from pwn import *
